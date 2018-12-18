@@ -4,3 +4,4 @@ Git has a muutable index called stage.
 Git tracks changes of files.
 Of course,This is a dev text.
 first commit.
+second commit.
